@@ -4,6 +4,7 @@ deleting employeeData using graphQL
 editing employeeData using graphQL 
 
 # RUN 
+## Make Seperate data.json file as for adding EmployeeData in json format 
 1. Install Dependencies - npm install 
  `( axios": "^0.16.2","express": "^4.15.3","express-graphql": "^0.6.7","graphql": "^0.10.5","json-server": "^0.11.2", "nodemon": "^1.11.0") `
 2. npm run dev:server
